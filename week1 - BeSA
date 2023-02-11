@@ -1,0 +1,4 @@
+1- Availabily zones , regions , wavelenghth , edge (cashing) 
+2- ISO model ( 7 network layers) 
+3- IP addresses
+4- create AWS account - dp not use root account - create a group ; enable M2A, an user and add it to the group ,create budegt alert. 
